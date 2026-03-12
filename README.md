@@ -1,16 +1,24 @@
-# React + Vite
+# 🌙 DailyRoutine: Zen Productivity Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DailyRoutine** is a high-performance productivity workspace designed for the **DAKSHH 2026 AI Protosprint**. It bridges the gap between daily action and mindfulness through minimalist design and data-driven insights.
 
-Currently, two official plugins are available:
+## ✨ Key Features (As seen in Live Demo)
+* **Ghost-Glass UI:** A sleek, dark-themed interface with glassmorphic transparency for a focused, distraction-free environment.
+* **Intelligent Habit Tracking:** Features interactive completion toggles, active streak counters, and "7-day rate" analytics.
+* **Visual Progress:** Dynamic heatmaps for every habit (e.g., Meditation, Exercise) to visualize long-term consistency.
+* **Integrated Journaling:** A centralized history view that links journal entries with completed habits for better self-reflection.
+* **Responsive Navigation:** Seamless switching between Today, Habits, Journal, and History tabs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+* **Frontend:** React.js (JSX)
+* **Build Tool:** Vite
+* **Deployment:** Vercel
+* **Styling:** CSS3 with Custom Glassmorphism
 
-## React Compiler
+## 🚀 Getting Started
+1. **Clone the repo:** `git clone https://github.com/AnkitaSaha535/DAILY-ROUTINE-TRACKER.git`
+2. **Install:** `npm install`
+3. **Run:** `npm run dev`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📜 License
+This project is licensed under the MIT License.
